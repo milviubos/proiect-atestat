@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/atestat/static/css/main.a2f06e28.css",
-    "main.js": "/atestat/static/js/main.14287b6c.js",
-    "index.html": "/atestat/index.html",
-    "main.a2f06e28.css.map": "/atestat/static/css/main.a2f06e28.css.map",
-    "main.14287b6c.js.map": "/atestat/static/js/main.14287b6c.js.map"
+    "main.css": "/proiect-atestat/static/css/main.a2f06e28.css",
+    "main.js": "/proiect-atestat/static/js/main.14287b6c.js",
+    "index.html": "/proiect-atestat/index.html",
+    "main.a2f06e28.css.map": "/proiect-atestat/static/css/main.a2f06e28.css.map",
+    "main.14287b6c.js.map": "/proiect-atestat/static/js/main.14287b6c.js.map"
   },
   "entrypoints": [
     "static/css/main.a2f06e28.css",
