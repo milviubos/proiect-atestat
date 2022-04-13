@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atestat/static/css/main.a2f06e28.css",
+    "main.js": "/atestat/static/js/main.14287b6c.js",
+    "index.html": "/atestat/index.html",
+    "main.a2f06e28.css.map": "/atestat/static/css/main.a2f06e28.css.map",
+    "main.14287b6c.js.map": "/atestat/static/js/main.14287b6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f06e28.css",
+    "static/js/main.14287b6c.js"
+  ]
+}
